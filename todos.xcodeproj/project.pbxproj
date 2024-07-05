@@ -56,6 +56,7 @@
 		674055532C36055A007E9DDE /* AddTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskView.swift; sourceTree = "<group>"; };
 		677683442C38411B000D4C79 /* TodoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListView.swift; sourceTree = "<group>"; };
 		677683462C384162000D4C79 /* TodoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoView.swift; sourceTree = "<group>"; };
+		6776834A2C384633000D4C79 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +87,7 @@
 		674055172C35FD18007E9DDE = {
 			isa = PBXGroup;
 			children = (
+				6776834A2C384633000D4C79 /* Readme.md */,
 				674055222C35FD18007E9DDE /* todos */,
 				674055332C35FD1A007E9DDE /* todosTests */,
 				6740553D2C35FD1A007E9DDE /* todosUITests */,
